@@ -4,9 +4,6 @@ I am a Data Analyst with a passion for uncovering insights from data and buildin
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/ping_pong_loader.svg" alt="Ping Pong Animation" width="200"/>
-</p>
 
 ### Languages and Tools
 
