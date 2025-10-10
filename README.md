@@ -65,16 +65,16 @@ Here are some of the projects I've worked on. [cite_start]You can find more on m
 
 ### Professional Experience
 
-- **Data Analyst Intern** | [cite_start]Futurense Technologies (June 2024 - August 2024) [cite: 3]
-  - [cite_start]Completed an intensive 2-month training program focused on data analysis and business intelligence[cite: 3].
-  - [cite_start]Worked with a large-scale corporate dataset to improve operational efficiency and enhance decision-making[cite: 3].
-  - [cite_start]Applied Python for data preprocessing, SQL for database querying, and Power BI for interactive data visualization[cite: 3].
+- **Data Analyst Intern** | [cite_start]Futurense Technologies (June 2024 - August 2024) 
+  - [cite_start]Completed an intensive 2-month training program focused on data analysis and business intelligence.
+  - [cite_start]Worked with a large-scale corporate dataset to improve operational efficiency and enhance decision-making.
+  - [cite_start]Applied Python for data preprocessing, SQL for database querying, and Power BI for interactive data visualization.
 
 ---
 
 ### Certifications
 
-- [cite_start]**Microsoft Certified: Azure Data Fundamentals (DP-900)** - [View Certificate](https://tinyurl.com/EdwinCertificate1) [cite: 3]
+- **Microsoft Certified: Azure Data Fundamentals (DP-900)** - [View Certificate](https://tinyurl.com/EdwinCertificate1) 
 
 ---
 
