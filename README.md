@@ -1,10 +1,12 @@
-# Hi there, I'm Edwin Eldhose 👋
+# Hi there, I'm Edwin Eldhose
 
-<a href="https://www.linkedin.com/in/edwineldhose/" target="blank"></a>
-
-I am a Data Analyst with a passion for transforming complex datasets into actionable insights. My experience as a Data Analyst Intern involved leveraging Python, SQL, and Power BI to enhance business decision-making. I enjoy building data-driven applications and am currently seeking full-time opportunities in data analytics.
+I am a Data Analyst with a passion for uncovering insights from data and building impactful solutions. [cite_start]My experience includes leveraging Python, SQL, and Power BI to analyze datasets and create compelling visualizations[cite: 3]. I am actively seeking opportunities to contribute to data-driven decision-making.
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/ping_pong_loader.svg" alt="Ping Pong Animation" width="200"/>
+</p>
 
 ### Languages and Tools
 
@@ -38,14 +40,14 @@ Here are some of the key technologies I work with:
 
 ### Featured Projects
 
-Here are some of the projects I've worked on. You can find more on my GitHub profile.
+Here are some of the projects I've worked on. [cite_start]You can find more on my GitHub profile[cite: 2].
 
 <table>
 <tr>
 
 <td width="50%">
 ### College Application Analysis
-<p>An in-depth data analysis of university admissions to identify factors influencing acceptance rates. This project involved cleaning and preprocessing data with Pandas and building interactive dashboards in Power BI.</p>
+[cite_start]<p>An in-depth data analysis of university admissions to identify factors influencing acceptance rates[cite: 3]. [cite_start]This project involved cleaning and preprocessing data with Pandas and building interactive dashboards in Power BI[cite: 3].</p>
 <strong>Tech Stack:</strong> Python, Pandas, Power BI
 <br>
 <a href="https://github.com/edwinEldhose404/USPathwayAnalysis" target="_blank">[View on GitHub]</a>
@@ -53,7 +55,7 @@ Here are some of the projects I've worked on. You can find more on my GitHub pro
 
 <td width="50%">
 ### Reddit News Summarizer
-<p>A real-time news aggregation and summarization tool. It uses Python scripts and APIs to automate data extraction from Reddit and implements NLP for key point extraction and sentiment analysis.</p>
+[cite_start]<p>A real-time news aggregation and summarization tool[cite: 3]. [cite_start]It uses Python scripts and APIs to automate data extraction from Reddit and implements NLP for key point extraction and sentiment analysis[cite: 3].</p>
 <strong>Tech Stack:</strong> Python, NLP, APIs, MySQL
 <br>
 <a href="https://github.com/edwinEldhose404/ReddiGo" target="_blank">[View on GitHub]</a>
@@ -66,4 +68,22 @@ Here are some of the projects I've worked on. You can find more on my GitHub pro
 
 ### Professional Experience
 
-- **Data Analyst Intern
+- **Data Analyst Intern** | [cite_start]Futurense Technologies (June 2024 - August 2024) [cite: 3]
+  - [cite_start]Completed an intensive 2-month training program focused on data analysis and business intelligence[cite: 3].
+  - [cite_start]Worked with a large-scale corporate dataset to improve operational efficiency and enhance decision-making[cite: 3].
+  - [cite_start]Applied Python for data preprocessing, SQL for database querying, and Power BI for interactive data visualization[cite: 3].
+
+---
+
+### Certifications
+
+- [cite_start]**Microsoft Certified: Azure Data Fundamentals (DP-900)** - [View Certificate](https://tinyurl.com/EdwinCertificate1) [cite: 3]
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edwineeldhose404&show_icons=true&theme=tokyonight" alt="Edwin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwineeldhose404&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
