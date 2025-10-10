@@ -1,12 +1,12 @@
 # Hi there, I'm Edwin Eldhose 👋
 
-<a href="https://www.linkedin.com/in/edwineldhose/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="edwineldhose" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edwineldhose/" target="blank"></a>
 
-I am a Data Analyst with a passion for transforming complex datasets into actionable insights. My experience as a Data Analyst Intern at Futurense Technologies involved leveraging Python, SQL, and Power BI to enhance business decision-making. I enjoy building data-driven applications and am currently seeking full-time opportunities in data analytics.
+I am a Data Analyst with a passion for transforming complex datasets into actionable insights. My experience as a Data Analyst Intern involved leveraging Python, SQL, and Power BI to enhance business decision-making. I enjoy building data-driven applications and am currently seeking full-time opportunities in data analytics.
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 Here are some of the key technologies I work with:
 
@@ -36,7 +36,7 @@ Here are some of the key technologies I work with:
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 Here are some of the projects I've worked on. You can find more on my GitHub profile.
 
@@ -64,6 +64,6 @@ Here are some of the projects I've worked on. You can find more on my GitHub pro
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 - **Data Analyst Intern
