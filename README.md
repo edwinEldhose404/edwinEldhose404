@@ -44,7 +44,7 @@ Here are some of the projects I've worked on. [cite_start]You can find more on m
 
 <td width="50%">
 ### College Application Analysis
-[cite_start]<p>An in-depth data analysis of university admissions to identify factors influencing acceptance rates[cite: 3]. [cite_start]This project involved cleaning and preprocessing data with Pandas and building interactive dashboards in Power BI[cite: 3].</p>
+<p>An in-depth data analysis of university admissions to identify factors influencing acceptance rates[cite: 3]. [cite_start]This project involved cleaning and preprocessing data with Pandas and building interactive dashboards in Power BI[cite: 3].</p>
 <strong>Tech Stack:</strong> Python, Pandas, Power BI
 <br>
 <a href="https://github.com/edwinEldhose404/USPathwayAnalysis" target="_blank">[View on GitHub]</a>
@@ -52,7 +52,7 @@ Here are some of the projects I've worked on. [cite_start]You can find more on m
 
 <td width="50%">
 ### Reddit News Summarizer
-[cite_start]<p>A real-time news aggregation and summarization tool[cite: 3]. [cite_start]It uses Python scripts and APIs to automate data extraction from Reddit and implements NLP for key point extraction and sentiment analysis[cite: 3].</p>
+<p>A real-time news aggregation and summarization tool[cite: 3]. [cite_start]It uses Python scripts and APIs to automate data extraction from Reddit and implements NLP for key point extraction and sentiment analysis[cite: 3].</p>
 <strong>Tech Stack:</strong> Python, NLP, APIs, MySQL
 <br>
 <a href="https://github.com/edwinEldhose404/ReddiGo" target="_blank">[View on GitHub]</a>
