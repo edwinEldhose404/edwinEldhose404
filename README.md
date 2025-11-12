@@ -1,6 +1,6 @@
 # Hi there, I'm Edwin Eldhose
 
-I am a Data Analyst with a passion for uncovering insights from data and building impactful solutions. [cite_start]My experience includes leveraging Python, SQL, and Power BI to analyze datasets and create compelling visualizations[cite: 3]. I am actively seeking opportunities to contribute to data-driven decision-making.
+I am a Data Analyst with a passion for uncovering insights from data and building impactful solutions. My experience includes leveraging Python, SQL, and Power BI to analyze datasets and create compelling visualizations. I am actively seeking opportunities to contribute to data-driven decision-making.
 
 ---
 
