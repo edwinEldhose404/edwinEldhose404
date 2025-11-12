@@ -44,7 +44,7 @@ Here are some of the projects I've worked on. [cite_start]You can find more on m
 
 <td width="50%">
 ### College Application Analysis
-<p>An in-depth data analysis of university admissions to identify factors influencing acceptance rates[cite: 3]. [cite_start]This project involved cleaning and preprocessing data with Pandas and building interactive dashboards in Power BI[cite: 3].</p>
+<p>An in-depth data analysis of university admissions to identify factors influencing acceptance rates. This project involved cleaning and preprocessing data with Pandas and building interactive dashboards in Power BI.</p>
 <strong>Tech Stack:</strong> Python, Pandas, Power BI
 <br>
 <a href="https://github.com/edwinEldhose404/USPathwayAnalysis" target="_blank">[View on GitHub]</a>
