@@ -52,7 +52,7 @@ Here are some of the projects I've worked on. [cite_start]You can find more on m
 
 <td width="50%">
 ### Reddit News Summarizer
-<p>A real-time news aggregation and summarization tool[cite: 3]. [cite_start]It uses Python scripts and APIs to automate data extraction from Reddit and implements NLP for key point extraction and sentiment analysis[cite: 3].</p>
+<p>A real-time news aggregation and summarization tool. It uses Python scripts and APIs to automate data extraction from Reddit and implements NLP for key point extraction and sentiment analysis.</p>
 <strong>Tech Stack:</strong> Python, NLP, APIs, MySQL
 <br>
 <a href="https://github.com/edwinEldhose404/ReddiGo" target="_blank">[View on GitHub]</a>
@@ -65,10 +65,10 @@ Here are some of the projects I've worked on. [cite_start]You can find more on m
 
 ### Professional Experience
 
-- **Data Analyst Intern** | [cite_start]Futurense Technologies (June 2024 - August 2024) 
-  - [cite_start]Completed an intensive 2-month training program focused on data analysis and business intelligence.
-  - [cite_start]Worked with a large-scale corporate dataset to improve operational efficiency and enhance decision-making.
-  - [cite_start]Applied Python for data preprocessing, SQL for database querying, and Power BI for interactive data visualization.
+- **Data Analyst Intern** | Futurense Technologies (June 2024 - August 2024) 
+  - Completed an intensive 2-month training program focused on data analysis and business intelligence.
+  - Worked with a large-scale corporate dataset to improve operational efficiency and enhance decision-making.
+  - Applied Python for data preprocessing, SQL for database querying, and Power BI for interactive data visualization.
 
 ---
 
